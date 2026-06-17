@@ -1,2 +1,14 @@
-# data-structures-cpp
-Implementation of common data structures in C++ including linked lists, stacks, queues, trees, and graphs.
+# Data Structures in C++
+
+## Implemented
+- Linked Lists
+- Stacks
+- Queues
+- Binary Trees
+- Graphs
+
+## How to Compile
+g++ main.cpp -o app
+
+## Author
+Adam Maatouk
